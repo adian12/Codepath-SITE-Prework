@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Adian Alvarado**
 
-Time spent: **#** hours spent in total
+Time spent: **4-5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/abundant-caramel-chauffeur?path=script.js%3A1%3A0
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![](gif1![](https://i.imgur.com/izuQuVB.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
