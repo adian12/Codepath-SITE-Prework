@@ -50,7 +50,7 @@ New pattern each game:
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
     - w3Schools.com: To get a better font (trebuchetms) and to learn how to use arrays in Javascript.
     - rapidtables.com: To get the nice green and off white colors for background and text.
-    - developer.Mozilla.org: To understand how to use the Math.random() function in Javascript (To get a new secretpattern everytime).
+    - developer.Mozilla.org: To understand how to use the Math.random() function in Javascript (to get a new secretpattern everytime).
     - 2ality.com: Also used to understand arrays in Javascript.
 
 
