@@ -37,10 +37,11 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
-
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://i.imgur.com/izuQuVB.gif)
-![](gif2-link-here)
+![](https://i.imgur.com/j5Ab1Tt.gif)
+
+New pattern each game:
+![](https://i.imgur.com/MLR94r9.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
