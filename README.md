@@ -6,7 +6,7 @@ Submitted by: **Adian Alvarado**
 
 Time spent: **4-5** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/abundant-caramel-chauffeur?path=script.js%3A1%3A0
+Link to project: https://abundant-caramel-chauffeur.glitch.me
 
 ## Required Functionality
 
