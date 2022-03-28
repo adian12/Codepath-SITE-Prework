@@ -22,7 +22,7 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [ x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ x] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
@@ -67,12 +67,12 @@ If I had more time to spend on this game, I would like to add multiple players &
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1_qoREHnpWiToHkWtiVZghcuy6pnYPeEL/view?usp=sharing)
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Adian Alvarado]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
