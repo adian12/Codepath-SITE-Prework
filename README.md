@@ -4,7 +4,7 @@
 
 Submitted by: **Adian Alvarado**
 
-Time spent: **4-5** hours spent in total
+Time spent: **6-7** hours spent in total
 
 Link to project: https://abundant-caramel-chauffeur.glitch.me
 
