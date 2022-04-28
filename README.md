@@ -65,9 +65,7 @@ If I had more time to spend on this game, I would like to add multiple players &
 
 
 
-## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://drive.google.com/file/d/1_qoREHnpWiToHkWtiVZghcuy6pnYPeEL/view?usp=sharing)
 
 
 ## License
