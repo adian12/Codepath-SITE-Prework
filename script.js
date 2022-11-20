@@ -5,7 +5,7 @@ const nextClueWaitTime = 500; //wait time before playing back the clue sequence
 
 
 //Global Variables
-var pattern = [2, 2, 4, 3, 2, 1, 2, 4]; //the secret pattern to win the game
+var pattern = [2, 2, 4, 3, 2, 1, 2, 4]; //the secret pattern to win the game, however, a new pattern is created each game
 var progress = 0; //keeps track of the user's progress 
 var gamePlaying = false; //flag variable that's holds whether or not the game is being played
 var tonePlaying = false;
